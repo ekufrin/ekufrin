@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧑 My name is Emanuel<br>🔞 Age: 20<br>🗺️ From Zagreb, Croatia<br>🏢 Currently studing Computer science @ Zagreb University of Applied Sciences (3rd year)</p>
+<p align="left">🧑 My name is Emanuel<br>🔞 Age: 21<br>🗺️ From Zagreb, Croatia<br>🏢 Currently studing Computer science @ Zagreb University of Applied Sciences (3rd year)</p>
 
 ###
 
